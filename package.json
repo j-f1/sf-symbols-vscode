@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "publisher": "vscode-samples",
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.0.0"
   },
   "enableProposedApi": true,
   "contributes": {
