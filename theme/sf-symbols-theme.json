@@ -1,7 +1,7 @@
 {
   "fonts": [
     {
-      "id": "sf-pro",
+      "id": "SF-Pro",
       "src": [
         {
           "path": "SF-Pro.ttf",
@@ -14,667 +14,667 @@
   ],
   "iconDefinitions": {
     "account": {
-      "fontCharacter": "􀓣"
+      "fontCharacter": "\\1004e3"
     },
     "activate-breakpoints": {
-      "fontCharacter": "􀣽"
+      "fontCharacter": "\\1008fd"
     },
     "add": {
-      "fontCharacter": "􀅼"
+      "fontCharacter": "\\10017c"
     },
     "alert": {
-      "fontCharacter": "􀇾"
+      "fontCharacter": "\\1001fe"
     },
     "archive": {
-      "fontCharacter": "􀈭"
+      "fontCharacter": "\\10022d"
     },
     "array": {
-      "fontCharacter": "􀋱"
+      "fontCharacter": "\\1002f1"
     },
     "arrow-both": {
-      "fontCharacter": "􀄾"
+      "fontCharacter": "\\10013e"
     },
     "arrow-down": {
-      "fontCharacter": "􀄩"
+      "fontCharacter": "\\100129"
     },
     "arrow-left": {
-      "fontCharacter": "􀄪"
+      "fontCharacter": "\\10012a"
     },
     "arrow-right": {
-      "fontCharacter": "􀄫"
+      "fontCharacter": "\\10012b"
     },
     "arrow-up": {
-      "fontCharacter": "􀄨"
+      "fontCharacter": "\\100128"
     },
     "bell": {
-      "fontCharacter": "􀋙"
+      "fontCharacter": "\\1002d9"
     },
     "bell-dot": {
-      "fontCharacter": "􀝖"
+      "fontCharacter": "\\100756"
     },
     "bold": {
-      "fontCharacter": "􀅓"
+      "fontCharacter": "\\100153"
     },
     "book": {
-      "fontCharacter": "􀉚"
+      "fontCharacter": "\\10025a"
     },
     "bookmark": {
-      "fontCharacter": "􀉞"
+      "fontCharacter": "\\10025e"
     },
     "briefcase": {
-      "fontCharacter": "􀎜"
+      "fontCharacter": "\\10039c"
     },
     "broadcast": {
-      "fontCharacter": "􀌙"
+      "fontCharacter": "\\100319"
     },
     "bug": {
-      "fontCharacter": "􀌚"
+      "fontCharacter": "\\10031a"
     },
     "calendar": {
-      "fontCharacter": "􀉉"
+      "fontCharacter": "\\100249"
     },
     "call-incoming": {
-      "fontCharacter": "􀍂"
+      "fontCharacter": "\\100342"
     },
     "call-outgoing": {
-      "fontCharacter": "􀍀"
+      "fontCharacter": "\\100340"
     },
     "case-sensitive": {
-      "fontCharacter": "􀅒"
+      "fontCharacter": "\\100152"
     },
     "check": {
-      "fontCharacter": "􀆅"
+      "fontCharacter": "\\100185"
     },
     "checklist": {
-      "fontCharacter": "􀋺"
+      "fontCharacter": "\\1002fa"
     },
     "chevron-down": {
-      "fontCharacter": "􀆈"
+      "fontCharacter": "\\100188"
     },
     "chevron-left": {
-      "fontCharacter": "􀆉"
+      "fontCharacter": "\\100189"
     },
     "chevron-right": {
-      "fontCharacter": "􀆊"
+      "fontCharacter": "\\10018a"
     },
     "chevron-up": {
-      "fontCharacter": "􀆇"
+      "fontCharacter": "\\100187"
     },
     "circle-filled": {
-      "fontCharacter": "􀜞"
+      "fontCharacter": "\\10071e"
     },
     "circle-large-filled": {
-      "fontCharacter": "􀀁"
+      "fontCharacter": "\\100001"
     },
     "circle-large-outline": {
-      "fontCharacter": "􀀀"
+      "fontCharacter": "\\100000"
     },
     "circle-outline": {
-      "fontCharacter": "􀧙"
+      "fontCharacter": "\\1009d9"
     },
     "circle-slash": {
-      "fontCharacter": "􀍼"
+      "fontCharacter": "\\10037c"
     },
     "circuit-board": {
-      "fontCharacter": "􀫥"
+      "fontCharacter": "\\100ae5"
     },
     "clear-all": {
-      "fontCharacter": "􀆙"
+      "fontCharacter": "\\100199"
     },
     "clippy": {
-      "fontCharacter": "􀫷"
+      "fontCharacter": "\\100af7"
     },
     "clock": {
-      "fontCharacter": "􀣔"
+      "fontCharacter": "\\1008d4"
     },
     "clone": {
-      "fontCharacter": "􀈽"
+      "fontCharacter": "\\10023d"
     },
     "close": {
-      "fontCharacter": "􀆄"
+      "fontCharacter": "\\100184"
     },
     "cloud": {
-      "fontCharacter": "􀇂"
+      "fontCharacter": "\\1001c2"
     },
     "cloud-download": {
-      "fontCharacter": "􀌕"
+      "fontCharacter": "\\100315"
     },
     "cloud-upload": {
-      "fontCharacter": "􀌗"
+      "fontCharacter": "\\100317"
     },
     "code": {
-      "fontCharacter": "􀙚"
+      "fontCharacter": "\\10065a"
     },
     "color-mode": {
-      "fontCharacter": "􀀂"
+      "fontCharacter": "\\100002"
     },
     "combine": {
-      "fontCharacter": "􀖄"
+      "fontCharacter": "\\100584"
     },
     "comment": {
-      "fontCharacter": "􀌪"
+      "fontCharacter": "\\10032a"
     },
     "comment-add": {
-      "fontCharacter": "􀌶"
+      "fontCharacter": "\\100336"
     },
     "comment-discussion": {
-      "fontCharacter": "􀒤"
+      "fontCharacter": "\\1004a4"
     },
     "compare-changes": {
-      "fontCharacter": "􀖅"
+      "fontCharacter": "\\100585"
     },
     "console": {
-      "fontCharacter": "􀩼"
+      "fontCharacter": "\\100a7c"
     },
     "credit-card": {
-      "fontCharacter": "􀍯"
+      "fontCharacter": "\\10036f"
     },
     "dash": {
-      "fontCharacter": "􀅽"
+      "fontCharacter": "\\10017d"
     },
     "dashboard": {
-      "fontCharacter": "􀍽"
+      "fontCharacter": "\\10037d"
     },
     "database": {
-      "fontCharacter": "􀡓"
+      "fontCharacter": "\\100853"
     },
     "debug": {
-      "fontCharacter": "􀌚"
+      "fontCharacter": "\\10031a"
     },
     "device-camera": {
-      "fontCharacter": "􀌞"
+      "fontCharacter": "\\10031e"
     },
     "device-camera-video": {
-      "fontCharacter": "􀍉"
+      "fontCharacter": "\\100349"
     },
     "device-desktop": {
-      "fontCharacter": "􀙗"
+      "fontCharacter": "\\100657"
     },
     "device-mobile": {
-      "fontCharacter": "􀟜"
+      "fontCharacter": "\\1007dc"
     },
     "discard": {
-      "fontCharacter": "􀈑"
+      "fontCharacter": "\\100211"
     },
     "edit": {
-      "fontCharacter": "􀈊"
+      "fontCharacter": "\\10020a"
     },
     "editor-layout": {
-      "fontCharacter": "􀏝"
+      "fontCharacter": "\\1003dd"
     },
     "ellipsis": {
-      "fontCharacter": "􀍠"
+      "fontCharacter": "\\100360"
     },
     "empty-window": {
-      "fontCharacter": "􀥃"
+      "fontCharacter": "\\100943"
     },
     "error": {
-      "fontCharacter": "􀒉"
+      "fontCharacter": "\\100489"
     },
     "export": {
-      "fontCharacter": "􀈂"
+      "fontCharacter": "\\100202"
     },
     "extensions": {
-      "fontCharacter": "􀤚"
+      "fontCharacter": "\\10091a"
     },
     "eye": {
-      "fontCharacter": "􀋭"
+      "fontCharacter": "\\1002ed"
     },
     "eye-closed": {
-      "fontCharacter": "􀋯"
+      "fontCharacter": "\\1002ef"
     },
     "eye-unwatch": {
-      "fontCharacter": "􀦧"
+      "fontCharacter": "\\1009a7"
     },
     "eye-watch": {
-      "fontCharacter": "􀦧"
+      "fontCharacter": "\\1009a7"
     },
     "filter": {
-      "fontCharacter": "􀌈"
+      "fontCharacter": "\\100308"
     },
     "flame": {
-      "fontCharacter": "􀙬"
+      "fontCharacter": "\\10066c"
     },
     "folder": {
-      "fontCharacter": "􀈕"
+      "fontCharacter": "\\100215"
     },
     "gather": {
-      "fontCharacter": "􀖄"
+      "fontCharacter": "\\100584"
     },
     "gear": {
-      "fontCharacter": "􀣋"
+      "fontCharacter": "\\1008cb"
     },
     "gift": {
-      "fontCharacter": "􀑉"
+      "fontCharacter": "\\100449"
     },
     "gist-fork": {
-      "fontCharacter": "􀙠"
+      "fontCharacter": "\\100660"
     },
     "git-branch": {
-      "fontCharacter": "􀙠"
+      "fontCharacter": "\\100660"
     },
     "git-branch-create": {
-      "fontCharacter": "􀙠"
+      "fontCharacter": "\\100660"
     },
     "git-branch-delete": {
-      "fontCharacter": "􀙠"
+      "fontCharacter": "\\100660"
     },
     "git-compare": {
-      "fontCharacter": "􀅌"
+      "fontCharacter": "\\10014c"
     },
     "git-fork-private": {
-      "fontCharacter": "􀎠"
+      "fontCharacter": "\\1003a0"
     },
     "git-merge": {
-      "fontCharacter": "􀖄"
+      "fontCharacter": "\\100584"
     },
     "globe": {
-      "fontCharacter": "􀆪"
+      "fontCharacter": "\\1001aa"
     },
     "graph": {
-      "fontCharacter": "􀣉"
+      "fontCharacter": "\\1008c9"
     },
     "heart": {
-      "fontCharacter": "􀊴"
+      "fontCharacter": "\\1002b4"
     },
     "history": {
-      "fontCharacter": "􀣔"
+      "fontCharacter": "\\1008d4"
     },
     "home": {
-      "fontCharacter": "􀎞"
+      "fontCharacter": "\\10039e"
     },
     "inbox": {
-      "fontCharacter": "􀈣"
+      "fontCharacter": "\\100223"
     },
     "info": {
-      "fontCharacter": "􀅴"
+      "fontCharacter": "\\100174"
     },
     "issues": {
-      "fontCharacter": "􀁞"
+      "fontCharacter": "\\10005e"
     },
     "italic": {
-      "fontCharacter": "􀅔"
+      "fontCharacter": "\\100154"
     },
     "json": {
-      "fontCharacter": "􀡅"
+      "fontCharacter": "\\100845"
     },
     "key": {
-      "fontCharacter": "􀟕"
+      "fontCharacter": "\\1007d5"
     },
     "keyboard": {
-      "fontCharacter": "􀇳"
+      "fontCharacter": "\\1001f3"
     },
     "library": {
-      "fontCharacter": "􀬒"
+      "fontCharacter": "\\100b12"
     },
     "light-bulb": {
-      "fontCharacter": "􀛮"
+      "fontCharacter": "\\1006ee"
     },
     "lightbulb": {
-      "fontCharacter": "􀛮"
+      "fontCharacter": "\\1006ee"
     },
     "link": {
-      "fontCharacter": "􀉣"
+      "fontCharacter": "\\100263"
     },
     "link-external": {
-      "fontCharacter": "􀄔"
+      "fontCharacter": "\\100114"
     },
     "list-filter": {
-      "fontCharacter": "􀌈"
+      "fontCharacter": "\\100308"
     },
     "list-flat": {
-      "fontCharacter": "􀋱"
+      "fontCharacter": "\\1002f1"
     },
     "list-ordered": {
-      "fontCharacter": "􀋴"
+      "fontCharacter": "\\1002f4"
     },
     "list-selection": {
-      "fontCharacter": "􀌀"
+      "fontCharacter": "\\100300"
     },
     "list-tree": {
-      "fontCharacter": "􀋳"
+      "fontCharacter": "\\1002f3"
     },
     "list-unordered": {
-      "fontCharacter": "􀋲"
+      "fontCharacter": "\\1002f2"
     },
     "location": {
-      "fontCharacter": "􀋑"
+      "fontCharacter": "\\1002d1"
     },
     "lock": {
-      "fontCharacter": "􀎠"
+      "fontCharacter": "\\1003a0"
     },
     "mail": {
-      "fontCharacter": "􀍕"
+      "fontCharacter": "\\100355"
     },
     "mail-read": {
-      "fontCharacter": "􀍙"
+      "fontCharacter": "\\100359"
     },
     "mail-reply": {
-      "fontCharacter": "􀉌"
+      "fontCharacter": "\\10024c"
     },
     "megaphone": {
-      "fontCharacter": "􀬲"
+      "fontCharacter": "\\100b32"
     },
     "mention": {
-      "fontCharacter": "􀅷"
+      "fontCharacter": "\\100177"
     },
     "menu": {
-      "fontCharacter": "􀭈"
+      "fontCharacter": "\\100b48"
     },
     "merge": {
-      "fontCharacter": "􀖄"
+      "fontCharacter": "\\100584"
     },
     "milestone": {
-      "fontCharacter": "􀯌"
+      "fontCharacter": "\\100bcc"
     },
     "more": {
-      "fontCharacter": "􀍠"
+      "fontCharacter": "\\100360"
     },
     "mortar-board": {
-      "fontCharacter": "􀫓"
+      "fontCharacter": "\\100ad3"
     },
     "move": {
-      "fontCharacter": "􀧐"
+      "fontCharacter": "\\1009d0"
     },
     "multiple-windows": {
-      "fontCharacter": "􀢌"
+      "fontCharacter": "\\10088c"
     },
     "mute": {
-      "fontCharacter": "􀊢"
+      "fontCharacter": "\\1002a2"
     },
     "new-file": {
-      "fontCharacter": "􀣗"
+      "fontCharacter": "\\1008d7"
     },
     "new-folder": {
-      "fontCharacter": "􀈙"
+      "fontCharacter": "\\100219"
     },
     "note": {
-      "fontCharacter": "􀓕"
+      "fontCharacter": "\\1004d5"
     },
     "notebook": {
-      "fontCharacter": "􀫗"
+      "fontCharacter": "\\100ad7"
     },
     "open-preview": {
       "fontCharacter": ""
     },
     "organization": {
-      "fontCharacter": "􀝊"
+      "fontCharacter": "\\10074a"
     },
     "organization-filled": {
-      "fontCharacter": "􀝊"
+      "fontCharacter": "\\10074a"
     },
     "organization-outline": {
-      "fontCharacter": "􀝊"
+      "fontCharacter": "\\10074a"
     },
     "package": {
-      "fontCharacter": "􀐚"
+      "fontCharacter": "\\10041a"
     },
     "pass": {
-      "fontCharacter": "􀁢"
+      "fontCharacter": "\\100062"
     },
     "pass-filled": {
-      "fontCharacter": "􀁣"
+      "fontCharacter": "\\100063"
     },
     "pencil": {
-      "fontCharacter": "􀈊"
+      "fontCharacter": "\\10020a"
     },
     "person": {
-      "fontCharacter": "􀳾"
+      "fontCharacter": "\\100cfe"
     },
     "person-add": {
-      "fontCharacter": "􀳾"
+      "fontCharacter": "\\100cfe"
     },
     "person-filled": {
-      "fontCharacter": "􀳾"
+      "fontCharacter": "\\100cfe"
     },
     "person-follow": {
-      "fontCharacter": "􀳾"
+      "fontCharacter": "\\100cfe"
     },
     "person-outline": {
-      "fontCharacter": "􀳾"
+      "fontCharacter": "\\100cfe"
     },
     "pin": {
-      "fontCharacter": "􀎦"
+      "fontCharacter": "\\1003a6"
     },
     "pinned": {
-      "fontCharacter": "􀎦"
+      "fontCharacter": "\\1003a6"
     },
     "play": {
-      "fontCharacter": "􀊃"
+      "fontCharacter": "\\100283"
     },
     "play-circle": {
-      "fontCharacter": "􀊕"
+      "fontCharacter": "\\100295"
     },
     "plus": {
-      "fontCharacter": "􀅼"
+      "fontCharacter": "\\10017c"
     },
     "preserve-case": {
-      "fontCharacter": "􀥊"
+      "fontCharacter": "\\10094a"
     },
     "preview": {
-      "fontCharacter": "􀉅"
+      "fontCharacter": "\\100245"
     },
     "primitive-dot": {
-      "fontCharacter": "􀜞"
+      "fontCharacter": "\\10071e"
     },
     "primitive-square": {
-      "fontCharacter": "􀂒"
+      "fontCharacter": "\\100092"
     },
     "question": {
-      "fontCharacter": "􀁜"
+      "fontCharacter": "\\10005c"
     },
     "quote": {
-      "fontCharacter": "􀋿"
+      "fontCharacter": "\\1002ff"
     },
     "radio-tower": {
-      "fontCharacter": "􀖀"
+      "fontCharacter": "\\100580"
     },
     "record": {
-      "fontCharacter": "􀢙"
+      "fontCharacter": "\\100899"
     },
     "record-keys": {
-      "fontCharacter": "􀇳"
+      "fontCharacter": "\\1001f3"
     },
     "redo": {
-      "fontCharacter": "􀱓"
+      "fontCharacter": "\\100c53"
     },
     "refresh": {
-      "fontCharacter": "􀅈"
+      "fontCharacter": "\\100148"
     },
     "remote": {
-      "fontCharacter": "􀪬"
+      "fontCharacter": "\\100aac"
     },
     "remove": {
-      "fontCharacter": "􀅽"
+      "fontCharacter": "\\10017d"
     },
     "remove-close": {
-      "fontCharacter": "􀆄"
+      "fontCharacter": "\\100184"
     },
     "repl": {
-      "fontCharacter": "􀩼"
+      "fontCharacter": "\\100a7c"
     },
     "reply": {
-      "fontCharacter": "􀉌"
+      "fontCharacter": "\\10024c"
     },
     "repo-create": {
-      "fontCharacter": "􀅼"
+      "fontCharacter": "\\10017c"
     },
     "repo-forked": {
-      "fontCharacter": "􀙠"
+      "fontCharacter": "\\100660"
     },
     "repo-sync": {
-      "fontCharacter": "􀊯"
+      "fontCharacter": "\\1002af"
     },
     "run": {
-      "fontCharacter": "􀊃"
+      "fontCharacter": "\\100283"
     },
     "save": {
-      "fontCharacter": "􀈄"
+      "fontCharacter": "\\100204"
     },
     "save-all": {
-      "fontCharacter": "􀈈"
+      "fontCharacter": "\\100208"
     },
     "screen-full": {
-      "fontCharacter": "􀅊"
+      "fontCharacter": "\\10014a"
     },
     "screen-normal": {
-      "fontCharacter": "􀅋"
+      "fontCharacter": "\\10014b"
     },
     "search": {
-      "fontCharacter": "􀊫"
+      "fontCharacter": "\\1002ab"
     },
     "search-save": {
-      "fontCharacter": "􀊫"
+      "fontCharacter": "\\1002ab"
     },
     "selection": {
-      "fontCharacter": "􀌀"
+      "fontCharacter": "\\100300"
     },
     "server": {
-      "fontCharacter": "􀪬"
+      "fontCharacter": "\\100aac"
     },
     "settings": {
-      "fontCharacter": "􀟲"
+      "fontCharacter": "\\1007f2"
     },
     "settings-gear": {
-      "fontCharacter": "􀣋"
+      "fontCharacter": "\\1008cb"
     },
     "shield": {
-      "fontCharacter": "􀞙"
+      "fontCharacter": "\\100799"
     },
     "smiley": {
-      "fontCharacter": "􀎸"
+      "fontCharacter": "\\1003b8"
     },
     "split-horizontal": {
-      "fontCharacter": "􀧈"
+      "fontCharacter": "\\1009c8"
     },
     "split-vertical": {
-      "fontCharacter": "􀧊"
+      "fontCharacter": "\\1009ca"
     },
     "star": {
-      "fontCharacter": "􀋂"
+      "fontCharacter": "\\1002c2"
     },
     "star-add": {
-      "fontCharacter": "􀋂"
+      "fontCharacter": "\\1002c2"
     },
     "star-delete": {
-      "fontCharacter": "􀋂"
+      "fontCharacter": "\\1002c2"
     },
     "star-empty": {
-      "fontCharacter": "􀋂"
+      "fontCharacter": "\\1002c2"
     },
     "star-full": {
-      "fontCharacter": "􀋃"
+      "fontCharacter": "\\1002c3"
     },
     "star-half": {
-      "fontCharacter": "􀋄"
+      "fontCharacter": "\\1002c4"
     },
     "stop": {
-      "fontCharacter": "􀁠"
+      "fontCharacter": "\\100060"
     },
     "stop-circle": {
-      "fontCharacter": "􀜪"
+      "fontCharacter": "\\10072a"
     },
     "symbol-array": {
       "fontCharacter": "[list-flat]"
     },
     "symbol-boolean": {
-      "fontCharacter": "􀥣"
+      "fontCharacter": "\\100963"
     },
     "symbol-color": {
-      "fontCharacter": "􀝥"
+      "fontCharacter": "\\100765"
     },
     "sync": {
-      "fontCharacter": "􀊯"
+      "fontCharacter": "\\1002af"
     },
     "tag": {
-      "fontCharacter": "􀋡"
+      "fontCharacter": "\\1002e1"
     },
     "tag-remove": {
-      "fontCharacter": "􀦫"
+      "fontCharacter": "\\1009ab"
     },
     "tasklist": {
-      "fontCharacter": "􀋺"
+      "fontCharacter": "\\1002fa"
     },
     "terminal": {
-      "fontCharacter": "􀩼"
+      "fontCharacter": "\\100a7c"
     },
     "text-size": {
-      "fontCharacter": "􀅐"
+      "fontCharacter": "\\100150"
     },
     "thumbsdown": {
-      "fontCharacter": "􀊁"
+      "fontCharacter": "\\100281"
     },
     "thumbsup": {
-      "fontCharacter": "􀉿"
+      "fontCharacter": "\\10027f"
     },
     "tools": {
-      "fontCharacter": "􀤊"
+      "fontCharacter": "\\10090a"
     },
     "trash": {
-      "fontCharacter": "􀈑"
+      "fontCharacter": "\\100211"
     },
     "trashcan": {
-      "fontCharacter": "􀈑"
+      "fontCharacter": "\\100211"
     },
     "triangle-down": {
-      "fontCharacter": "􀄥"
+      "fontCharacter": "\\100125"
     },
     "triangle-left": {
-      "fontCharacter": "􀄦"
+      "fontCharacter": "\\100126"
     },
     "triangle-right": {
-      "fontCharacter": "􀄧"
+      "fontCharacter": "\\100127"
     },
     "triangle-up": {
-      "fontCharacter": "􀄤"
+      "fontCharacter": "\\100124"
     },
     "unlock": {
-      "fontCharacter": "􀎤"
+      "fontCharacter": "\\1003a4"
     },
     "unmute": {
-      "fontCharacter": "􀊦"
+      "fontCharacter": "\\1002a6"
     },
     "unverified": {
-      "fontCharacter": "􀇼"
+      "fontCharacter": "\\1001fc"
     },
     "verified": {
-      "fontCharacter": "􀇺"
+      "fontCharacter": "\\1001fa"
     },
     "versions": {
-      "fontCharacter": "􀏭"
+      "fontCharacter": "\\1003ed"
     },
     "warning": {
-      "fontCharacter": "􀇾"
+      "fontCharacter": "\\1001fe"
     },
     "watch": {
-      "fontCharacter": "􀟤"
+      "fontCharacter": "\\1007e4"
     },
     "whitespace": {
-      "fontCharacter": "􀒆"
+      "fontCharacter": "\\100486"
     },
     "whole-word": {
-      "fontCharacter": "􀅶"
+      "fontCharacter": "\\100176"
     },
     "window": {
-      "fontCharacter": "􀏜"
+      "fontCharacter": "\\1003dc"
     },
     "wrench": {
-      "fontCharacter": "􀎕"
+      "fontCharacter": "\\100395"
     },
     "wrench-subaction": {
-      "fontCharacter": "􀎕"
+      "fontCharacter": "\\100395"
     },
     "x": {
-      "fontCharacter": "􀆄"
+      "fontCharacter": "\\100184"
     },
     "zap": {
-      "fontCharacter": "􀋥"
+      "fontCharacter": "\\1002e5"
     },
     "zoom-in": {
-      "fontCharacter": "􀊬"
+      "fontCharacter": "\\1002ac"
     },
     "zoom-out": {
-      "fontCharacter": "􀊭"
+      "fontCharacter": "\\1002ad"
     }
   }
 }

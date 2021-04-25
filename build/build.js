@@ -19,7 +19,7 @@ const dealiased = Object.fromEntries(
 const theme = {
   fonts: [
     {
-      id: "sf-pro",
+      id: "SF-Pro",
       src: [{ path: "SF-Pro.ttf", format: "ttf" }],
       weight: "normal",
       style: "normal",
@@ -35,5 +35,12 @@ const theme = {
 
 fs.writeFileSync(
   path.join(path.dirname(__dirname), "theme", "sf-symbols-theme.json"),
-  JSON.stringify(theme, null, 2)
+  JSON.stringify(theme, null, 2).replace(
+    /fontCharacter": "(..)"/g,
+    (_, ch) =>
+      String.raw`fontCharacter": "\\${ch
+        .codePointAt()
+        .toString(16)
+        .padStart(4, "0")}"`
+  )
 );
