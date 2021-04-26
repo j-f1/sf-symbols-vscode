@@ -1,6 +1,21 @@
 {
   "name": "sf-symbols",
   "version": "1.0.0",
+  "description": "Change the VS Code UI’s icons to SF Symbols",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-f1/sf-symbols-vscode.git"
+  },
+  "author": {
+    "name": "Jed Fox",
+    "email": "git@jedfox.com",
+    "url": "https://jedfox.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-f1/sf-symbols-vscode/issues"
+  },
+  "homepage": "https://github.com/j-f1/sf-symbols-vscode#readme",
   "publisher": "jedfox",
   "engines": {
     "vscode": "^1.0.0"
@@ -22,6 +37,7 @@
   "scripts": {
     "build": "node build/build.js"
   },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.14.41",
     "strip-json-comments": "^3.1.1",
