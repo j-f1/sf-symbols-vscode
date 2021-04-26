@@ -300,7 +300,7 @@
   "repo-create": "[plus]",
   // "repo-delete": "",
   // "repo-force-push": "",
-  "repo-forked": "[git-branch]",
+  // "repo-forked": "[git-branch]",
   // "repo-pull": "",
   // "repo-push": "",
   // "repo-sync": "[sync]",
