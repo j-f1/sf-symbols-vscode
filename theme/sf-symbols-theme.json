@@ -145,6 +145,9 @@
     "code": {
       "fontCharacter": "\\10065a"
     },
+    "collapse-all": {
+      "fontCharacter": "\\10018c"
+    },
     "color-mode": {
       "fontCharacter": "\\100002"
     },
@@ -160,11 +163,8 @@
     "comment-discussion": {
       "fontCharacter": "\\1004a4"
     },
-    "compare-changes": {
-      "fontCharacter": "\\100585"
-    },
     "console": {
-      "fontCharacter": "\\100a7c"
+      "fontCharacter": "\\100104"
     },
     "credit-card": {
       "fontCharacter": "\\10036f"
@@ -203,13 +203,16 @@
       "fontCharacter": "\\1003dd"
     },
     "ellipsis": {
-      "fontCharacter": "\\100360"
+      "fontCharacter": "\\100361"
     },
     "empty-window": {
       "fontCharacter": "\\100943"
     },
     "error": {
-      "fontCharacter": "\\100489"
+      "fontCharacter": "\\10048a"
+    },
+    "expand-all": {
+      "fontCharacter": "\\10018f"
     },
     "export": {
       "fontCharacter": "\\100202"
@@ -229,6 +232,9 @@
     "eye-watch": {
       "fontCharacter": "\\1009a7"
     },
+    "files": {
+      "fontCharacter": "\\100241"
+    },
     "filter": {
       "fontCharacter": "\\100308"
     },
@@ -247,21 +253,6 @@
     "gift": {
       "fontCharacter": "\\100449"
     },
-    "gist-fork": {
-      "fontCharacter": "\\100660"
-    },
-    "git-branch": {
-      "fontCharacter": "\\100660"
-    },
-    "git-branch-create": {
-      "fontCharacter": "\\100660"
-    },
-    "git-branch-delete": {
-      "fontCharacter": "\\100660"
-    },
-    "git-compare": {
-      "fontCharacter": "\\10014c"
-    },
     "git-fork-private": {
       "fontCharacter": "\\1003a0"
     },
@@ -270,6 +261,9 @@
     },
     "globe": {
       "fontCharacter": "\\1001aa"
+    },
+    "go-to-file": {
+      "fontCharacter": "\\100a5a"
     },
     "graph": {
       "fontCharacter": "\\1008c9"
@@ -368,7 +362,7 @@
       "fontCharacter": "\\100bcc"
     },
     "more": {
-      "fontCharacter": "\\100360"
+      "fontCharacter": "\\100361"
     },
     "mortar-board": {
       "fontCharacter": "\\100ad3"
@@ -395,7 +389,7 @@
       "fontCharacter": "\\100ad7"
     },
     "open-preview": {
-      "fontCharacter": ""
+      "fontCharacter": "\\100579"
     },
     "organization": {
       "fontCharacter": "\\10074a"
@@ -491,7 +485,7 @@
       "fontCharacter": "\\100184"
     },
     "repl": {
-      "fontCharacter": "\\100a7c"
+      "fontCharacter": "\\100104"
     },
     "reply": {
       "fontCharacter": "\\10024c"
@@ -499,12 +493,7 @@
     "repo-create": {
       "fontCharacter": "\\10017c"
     },
-    "repo-forked": {
-      "fontCharacter": "\\100660"
-    },
-    "repo-sync": {
-      "fontCharacter": "\\1002af"
-    },
+    "repo-forked": {},
     "run": {
       "fontCharacter": "\\100283"
     },
@@ -596,7 +585,7 @@
       "fontCharacter": "\\1002fa"
     },
     "terminal": {
-      "fontCharacter": "\\100a7c"
+      "fontCharacter": "\\100104"
     },
     "text-size": {
       "fontCharacter": "\\100150"
@@ -644,7 +633,7 @@
       "fontCharacter": "\\1003ed"
     },
     "warning": {
-      "fontCharacter": "\\1001fe"
+      "fontCharacter": "\\1001ff"
     },
     "watch": {
       "fontCharacter": "\\1007e4"

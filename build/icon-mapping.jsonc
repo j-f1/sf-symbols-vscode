@@ -56,14 +56,14 @@
   "cloud-download": "􀌕",
   "cloud-upload": "􀌗",
   "code": "􀙚",
-  // "collapse-all": "",
+  "collapse-all": "􀆌", // 􀆓􀆓?
   "color-mode": "􀀂",
   "combine": "[merge]",
   "comment": "􀌪",
   "comment-add": "􀌶",
   "comment-discussion": "􀒤",
-  "compare-changes": "􀖅", // ?
-  "console": "􀩼",
+  // "compare-changes": "􀖅", // ?
+  "console": "􀄄", // 􀩼?
   "credit-card": "􀍯",
   "dash": "􀅽",
   "dashboard": "􀍽",
@@ -121,11 +121,11 @@
   // "drop-down-button": "", // ?
   "edit": "[pencil]",
   "editor-layout": "􀏝",
-  "ellipsis": "􀍠",
+  "ellipsis": "􀍡", // 􀍠?
   "empty-window": "􀥃",
-  "error": "􀒉", // 􀒊?
+  "error": "􀒊", // 􀒉?
   // "exclude": "",
-  // "expand-all": "",
+  "expand-all": "􀆏", // ?
   "export": "􀈂", // 􀈆?
   "extensions": "􀤚", // 􀟻?
   "eye": "􀋭",
@@ -146,7 +146,7 @@
   // "file-symlink-file": "",
   // "file-text": "",
   // "file-zip": "",
-  // "files": "",
+  "files": "􀉁",
   "filter": "􀌈",
   "flame": "􀙬",
   // "fold": "", // ?
@@ -159,15 +159,15 @@
   "gear": "􀣋",
   "gift": "􀑉",
   // "gist": "",
-  "gist-fork": "[git-branch]", //􀎐?
+  // "gist-fork": "[git-branch]", //􀎐?
   // "gist-new": "",
   // "gist-private": "",
   // "gist-secret": "",
-  "git-branch": "􀙠", // ?
-  "git-branch-create": "[git-branch]",
-  "git-branch-delete": "[git-branch]",
+  // "git-branch": "􀙠", // ?
+  // "git-branch-create": "[git-branch]",
+  // "git-branch-delete": "[git-branch]",
   // "git-commit": "",
-  "git-compare": "􀅌", // 􀖅?
+  // "git-compare": "􀅌", // 􀖅?
   "git-fork-private": "[lock]",
   "git-merge": "[merge]",
   // "git-pull-request": "",
@@ -178,7 +178,7 @@
   // "github-alt": "",
   // "github-inverted": "",
   "globe": "􀆪",
-  // "go-to-file": "",
+  "go-to-file": "􀩚", // ?
   // "grabber": "",
   "graph": "􀣉",
   // "graph-left": "",
@@ -249,7 +249,7 @@
   "notebook": "􀫗",
   // "notebook-template": "",
   // "octoface": "",
-  "open-preview": "",
+  "open-preview": "􀕹",
   "organization": "􀝊",
   "organization-filled": "[organization]", // identical to organization?
   "organization-outline": "[organization]", // identical to organization?
@@ -303,7 +303,7 @@
   "repo-forked": "[git-branch]",
   // "repo-pull": "",
   // "repo-push": "",
-  "repo-sync": "[sync]",
+  // "repo-sync": "[sync]",
   // "report": "",
   // "request-changes": "",
   // "rocket": "",
@@ -421,7 +421,7 @@
   // "vm-connect": "",
   // "vm-outline": "",
   // "vm-running": "",
-  "warning": "[alert]", // 􀇿? (see error)
+  "warning": "􀇿", // 􀇾? (see error, alert)
   "watch": "􀟤",
   "whitespace": "􀒆",
   "whole-word": "􀅶", // ?
