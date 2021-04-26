@@ -14,7 +14,7 @@ class Extension {
     (async () => {
       if (monkeyPatch !== undefined) {
         await monkeyPatch.activate();
-        monkeyPatch.exports.contribute("jedfox.sf-symbols", {
+        monkeyPatch.exports.contribute("j-f1.sf-symbols", {
           folderMap: {
             sfsymbols: path.join(this.context.extensionPath, "custom-modules"),
           },

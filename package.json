@@ -16,7 +16,7 @@
     "url": "https://github.com/j-f1/sf-symbols-vscode/issues"
   },
   "homepage": "https://github.com/j-f1/sf-symbols-vscode#readme",
-  "publisher": "jedfox",
+  "publisher": "j-f1",
   "engines": {
     "vscode": "^1.0.0"
   },
