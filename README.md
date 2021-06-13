@@ -16,6 +16,18 @@ Once you’ve followed those steps, open the command pallete, choose “Preferen
 
 ## Changelog
 
+### v2.0.1
+
+Added missing changelog entries
+
+### v2.0.0
+
+Updated to depend on the [SF Symbols 3 Beta](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-3.dmg)
+
+### v1.1.1
+
+Fixed a bug in the release process
+
 ### v1.1.0
 
 Added and updated a variety of icons
