@@ -86,7 +86,7 @@
       "fontCharacter": "\\100185"
     },
     "checklist": {
-      "fontCharacter": "\\1002fa"
+      "fontCharacter": "\\100dfe"
     },
     "chevron-down": {
       "fontCharacter": "\\100188"
@@ -128,7 +128,7 @@
       "fontCharacter": "\\1008d4"
     },
     "clone": {
-      "fontCharacter": "\\10023d"
+      "fontCharacter": "\\100dbe"
     },
     "close": {
       "fontCharacter": "\\100184"
@@ -367,6 +367,9 @@
     "go-to-file": {
       "fontCharacter": "\\100a5a"
     },
+    "grabber": {
+      "fontCharacter": "\\100307"
+    },
     "graph": {
       "fontCharacter": "\\1008c9"
     },
@@ -390,6 +393,9 @@
     },
     "italic": {
       "fontCharacter": "\\100154"
+    },
+    "jersey": {
+      "fontCharacter": "\\100fa0"
     },
     "json": {
       "fontCharacter": "\\100845"
@@ -540,6 +546,9 @@
     },
     "play-circle": {
       "fontCharacter": "\\100295"
+    },
+    "plug": {
+      "fontCharacter": "\\100877"
     },
     "plus": {
       "fontCharacter": "\\10017c"
@@ -750,6 +759,9 @@
     },
     "text-size": {
       "fontCharacter": "\\100150"
+    },
+    "three-bars": {
+      "fontCharacter": "\\100307"
     },
     "thumbsdown": {
       "fontCharacter": "\\100281"

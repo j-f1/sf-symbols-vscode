@@ -30,7 +30,7 @@
   "case-sensitive": "􀅒",
   "check": "􀆅",
   // "check-all": "",
-  "checklist": "􀋺",
+  "checklist": "􀷾", // old: 􀋺, see tasklist
   "chevron-down": "􀆈",
   "chevron-left": "􀆉",
   "chevron-right": "􀆊",
@@ -48,7 +48,7 @@
   "clear-all": "􀆙", // 􀋹?
   "clippy": "􀫷",
   "clock": "􀣔",
-  "clone": "􀈽", // 􀁸?
+  "clone": "􀶾", // old: 􀈽, alts: 􀁸􀶽?
   "close": "􀆄", // 􀁡􀃰􀃱?
   // "close-all": "",
   "close-dirty": "􀕩",
@@ -62,7 +62,7 @@
   "comment": "􀌪",
   "comment-add": "􀌶",
   "comment-discussion": "􀒤",
-  // "compare-changes": "􀖅", // ?
+  // "compare-changes": "􁁀􀖅", // ?
   "console": "􀄄", // 􀩼?
   "credit-card": "􀍯",
   "dash": "􀅽",
@@ -179,7 +179,7 @@
   // "github-inverted": "",
   "globe": "􀆪",
   "go-to-file": "􀩚", // ?
-  // "grabber": "",
+  "grabber": "􀌇",
   "graph": "􀣉",
   // "graph-left": "",
   // "gripper": "",
@@ -196,7 +196,7 @@
   // "issue-reopened": "",
   "issues": "􀁞",
   "italic": "􀅔",
-  // "jersey": "",
+  "jersey": "􀾠",
   "json": "􀡅",
   // "kebab-horizontal": "",
   // "kebab-vertical": "",
@@ -269,7 +269,7 @@
   // "pinned-dirty": "",
   "play": "􀊃",
   "play-circle": "􀊕",
-  // "plug": "",
+  "plug": "􀡷",
   "plus": "􀅼",
   "preserve-case": "􀥊", // ?
   "preview": "􀉅", // 􀤦?
@@ -309,7 +309,7 @@
   // "rocket": "",
   // "root-folder": "",
   // "root-folder-opened": "",
-  // "rss": "",
+  // "rss": "􀼗",
   // "ruby": "",
   "run": "[play]",
   // "run-all": "",
@@ -390,11 +390,11 @@
   "tag": "􀋡",
   "tag-add": "􀋡", // 􀋣? same icon
   "tag-remove": "􀦫",
-  "tasklist": "[checklist]", // ?
+  "tasklist": "􀋺", // ?
   // "telescope": "",
   "terminal": "[console]",
   "text-size": "􀅐",
-  // "three-bars": "",
+  "three-bars": "[grabber]",
   "thumbsdown": "􀊁",
   "thumbsup": "􀉿",
   "tools": "􀤊",
