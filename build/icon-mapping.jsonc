@@ -112,11 +112,11 @@
   "device-desktop": "􀙗",
   "device-mobile": "􀟜",
   // "diff": "",
-  // "diff-added": "",
-  // "diff-ignored": "",
-  // "diff-modified": "",
-  // "diff-removed": "",
-  // "diff-renamed": "",
+  "diff-added": "􀃜",
+  "diff-ignored": "􀡗",
+  "diff-modified": "􀕴",
+  "diff-removed": "􀃞",
+  "diff-renamed": "􀰊",
   "discard": "􀈑", // 􀱍 ?
   // "drop-down-button": "", // ?
   "edit": "[pencil]",

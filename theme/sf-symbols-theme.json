@@ -256,6 +256,21 @@
     "device-mobile": {
       "fontCharacter": "\\1007dc"
     },
+    "diff-added": {
+      "fontCharacter": "\\1000dc"
+    },
+    "diff-ignored": {
+      "fontCharacter": "\\100857"
+    },
+    "diff-modified": {
+      "fontCharacter": "\\100574"
+    },
+    "diff-removed": {
+      "fontCharacter": "\\1000de"
+    },
+    "diff-renamed": {
+      "fontCharacter": "\\100c0a"
+    },
     "discard": {
       "fontCharacter": "\\100211"
     },
