@@ -13,3 +13,13 @@ Note: for legal reasons, this theme cannot actually package the SF Symbols. Ther
 3. You may also need to reload the window once to make sure the code that swaps in the actual SF Pro font gets a chance to run.
 
 Once you’ve followed those steps, open the command pallete, choose “Preferences: Product Icon Theme,” then select “SF Symbol Icons.”
+
+## Changelog
+
+### v1.1.0
+
+Added and updated a variety of icons
+
+### v1.0.0
+
+_Initial release_
