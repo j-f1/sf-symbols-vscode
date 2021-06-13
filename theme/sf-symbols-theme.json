@@ -310,6 +310,27 @@
     "eye-watch": {
       "fontCharacter": "\\1009a7"
     },
+    "file": {
+      "fontCharacter": "\\100237"
+    },
+    "file-add": {
+      "fontCharacter": "\\1008d7"
+    },
+    "file-code": {
+      "fontCharacter": "\\10023f"
+    },
+    "file-directory": {
+      "fontCharacter": "\\100215"
+    },
+    "file-directory-create": {
+      "fontCharacter": "\\100219"
+    },
+    "file-text": {
+      "fontCharacter": "\\100247"
+    },
+    "file-zip": {
+      "fontCharacter": "\\100927"
+    },
     "files": {
       "fontCharacter": "\\100241"
     },

@@ -133,19 +133,19 @@
   "eye-unwatch": "􀦧", // ?
   "eye-watch": "􀦧", // ?
   // "feedback": "",
-  // "file": "􀈷",
-  // "file-add": "",
+  "file": "􀈷",
+  "file-add": "[new-file]",
   // "file-binary": "􀏅", // ?
-  // "file-code": "􀈿", // ?
-  // "file-directory": "",
-  // "file-directory-create": "",
+  "file-code": "􀈿", // ?
+  "file-directory": "[folder]",
+  "file-directory-create": "[new-folder]",
   // "file-media": "",
   // "file-pdf": "",
   // "file-submodule": "",
   // "file-symlink-directory": "",
   // "file-symlink-file": "",
-  // "file-text": "",
-  // "file-zip": "",
+  "file-text": "􀉇",
+  "file-zip": "􀤧",
   "files": "􀉁",
   "filter": "􀌈",
   "flame": "􀙬",
