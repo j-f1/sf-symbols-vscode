@@ -68,7 +68,7 @@
       "fontCharacter": "\\100319"
     },
     "bug": {
-      "fontCharacter": "\\10031a"
+      "fontCharacter": "\\100bd4"
     },
     "calendar": {
       "fontCharacter": "\\100249"
@@ -180,6 +180,69 @@
     },
     "debug": {
       "fontCharacter": "\\10031a"
+    },
+    "debug-breakpoint": {
+      "fontCharacter": "\\100001"
+    },
+    "debug-breakpoint-conditional": {
+      "fontCharacter": "\\100055"
+    },
+    "debug-breakpoint-conditional-disabled": {
+      "fontCharacter": "\\100055"
+    },
+    "debug-breakpoint-conditional-unverified": {
+      "fontCharacter": "\\100054"
+    },
+    "debug-breakpoint-data": {
+      "fontCharacter": "\\10075e"
+    },
+    "debug-breakpoint-data-disabled": {
+      "fontCharacter": "\\10075e"
+    },
+    "debug-breakpoint-data-unverified": {
+      "fontCharacter": "\\10075d"
+    },
+    "debug-breakpoint-disabled": {
+      "fontCharacter": "[circle-large-filled]"
+    },
+    "debug-breakpoint-function": {
+      "fontCharacter": "\\1006e4"
+    },
+    "debug-breakpoint-function-disabled": {
+      "fontCharacter": "\\1006e4"
+    },
+    "debug-breakpoint-function-unverified": {
+      "fontCharacter": "\\1006e4"
+    },
+    "debug-breakpoint-log": {
+      "fontCharacter": "\\1007c9"
+    },
+    "debug-breakpoint-log-disabled": {
+      "fontCharacter": "\\1007c9"
+    },
+    "debug-breakpoint-log-unverified": {
+      "fontCharacter": "\\1007c8"
+    },
+    "debug-breakpoint-unsupported": {
+      "fontCharacter": "\\10005f"
+    },
+    "debug-breakpoint-unverified": {
+      "fontCharacter": "\\100000"
+    },
+    "debug-hint": {
+      "fontCharacter": "[circle-large-filled]"
+    },
+    "debug-pause": {
+      "fontCharacter": "\\100285"
+    },
+    "debug-restart": {
+      "fontCharacter": "\\100149"
+    },
+    "debug-start": {
+      "fontCharacter": "\\100283"
+    },
+    "debug-stop": {
+      "fontCharacter": "\\1006f6"
     },
     "device-camera": {
       "fontCharacter": "\\10031e"
