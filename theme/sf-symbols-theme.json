@@ -133,6 +133,9 @@
     "close": {
       "fontCharacter": "\\100184"
     },
+    "close-dirty": {
+      "fontCharacter": "\\100569"
+    },
     "cloud": {
       "fontCharacter": "\\1001c2"
     },
@@ -146,7 +149,7 @@
       "fontCharacter": "\\10065a"
     },
     "collapse-all": {
-      "fontCharacter": "\\10018c"
+      "fontCharacter": "\\10014b"
     },
     "color-mode": {
       "fontCharacter": "\\100002"
@@ -530,7 +533,7 @@
       "fontCharacter": "\\1003a6"
     },
     "pinned": {
-      "fontCharacter": "\\1003a6"
+      "fontCharacter": "\\1003a7"
     },
     "play": {
       "fontCharacter": "\\100283"
@@ -552,6 +555,9 @@
     },
     "primitive-square": {
       "fontCharacter": "\\100092"
+    },
+    "pulse": {
+      "fontCharacter": "\\10071f"
     },
     "question": {
       "fontCharacter": "\\10005c"
@@ -592,6 +598,12 @@
     "repo-create": {
       "fontCharacter": "\\10017c"
     },
+    "repo-sync": {
+      "fontCharacter": "\\1002af"
+    },
+    "report": {
+      "fontCharacter": "\\10032c"
+    },
     "run": {
       "fontCharacter": "\\100283"
     },
@@ -623,7 +635,7 @@
       "fontCharacter": "\\1007f2"
     },
     "settings-gear": {
-      "fontCharacter": "\\1008cb"
+      "fontCharacter": "\\10035f"
     },
     "shield": {
       "fontCharacter": "\\100799"
@@ -665,15 +677,66 @@
       "fontCharacter": "[list-flat]"
     },
     "symbol-boolean": {
-      "fontCharacter": "\\100963"
+      "fontCharacter": "\\10070a"
     },
     "symbol-color": {
       "fontCharacter": "\\100765"
+    },
+    "symbol-constructor": {
+      "fontCharacter": "\\10041a"
+    },
+    "symbol-event": {
+      "fontCharacter": "\\1002e5"
+    },
+    "symbol-file": {
+      "fontCharacter": "\\100237"
+    },
+    "symbol-folder": {
+      "fontCharacter": "\\100215"
+    },
+    "symbol-function": {
+      "fontCharacter": "\\10016d"
+    },
+    "symbol-key": {
+      "fontCharacter": "\\10016f"
+    },
+    "symbol-keyword": {
+      "fontCharacter": "\\1009ce"
+    },
+    "symbol-method": {
+      "fontCharacter": "\\10016e"
+    },
+    "symbol-misc": {
+      "fontCharacter": "\\100409"
+    },
+    "symbol-null": {
+      "fontCharacter": "\\1004d4"
+    },
+    "symbol-number": {
+      "fontCharacter": "\\100183"
+    },
+    "symbol-numeric": {
+      "fontCharacter": "\\100183"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\100395"
+    },
+    "symbol-ruler": {
+      "fontCharacter": "\\1007c0"
+    },
+    "symbol-string": {
+      "fontCharacter": "\\10016f"
+    },
+    "symbol-text": {
+      "fontCharacter": "\\10016f"
     },
     "sync": {
       "fontCharacter": "\\1002af"
     },
     "tag": {
+      "fontCharacter": "\\1002e1"
+    },
+    "tag-add": {
       "fontCharacter": "\\1002e1"
     },
     "tag-remove": {
