@@ -16,6 +16,10 @@ Once you’ve followed those steps, open the command pallete, choose “Preferen
 
 ## Changelog
 
+### v2.0.2
+
+Fixed issues with breakpoint and and array symbols
+
 ### v2.0.1
 
 Added missing changelog entries
