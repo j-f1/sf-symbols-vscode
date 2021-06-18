@@ -206,7 +206,7 @@
       "fontCharacter": "\\10075d"
     },
     "debug-breakpoint-disabled": {
-      "fontCharacter": "[circle-large-filled]"
+      "fontCharacter": "\\100001"
     },
     "debug-breakpoint-function": {
       "fontCharacter": "\\1006e4"
@@ -233,7 +233,7 @@
       "fontCharacter": "\\100000"
     },
     "debug-hint": {
-      "fontCharacter": "[circle-large-filled]"
+      "fontCharacter": "\\100001"
     },
     "debug-pause": {
       "fontCharacter": "\\100285"
@@ -683,7 +683,7 @@
       "fontCharacter": "\\10072a"
     },
     "symbol-array": {
-      "fontCharacter": "[list-flat]"
+      "fontCharacter": "\\1002f1"
     },
     "symbol-boolean": {
       "fontCharacter": "\\10070a"

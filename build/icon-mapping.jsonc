@@ -71,7 +71,7 @@
   "debug": "􀌚", // see bug
   // "debug-alt": "",
   // "debug-alt-small": "",
-  "debug-breakpoint": "[circle-large-filled]",
+  "debug-breakpoint": "􀀁", // circle-large-filled
   "debug-breakpoint-conditional": "􀁕",
   "debug-breakpoint-conditional-disabled": "[debug-breakpoint-conditional]",
   "debug-breakpoint-conditional-unverified": "􀁔",
@@ -346,7 +346,7 @@
   "star-half": "􀋄",
   "stop": "􀁠", // 􀛶?
   "stop-circle": "􀜪",
-  "symbol-array": "[array]",
+  "symbol-array": "[list-flat]",
   "symbol-boolean": "􀜊", // 􀥣?
   // "symbol-class": "",
   "symbol-color": "􀝥",
