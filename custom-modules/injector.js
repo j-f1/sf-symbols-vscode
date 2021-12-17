@@ -3,7 +3,7 @@ define([], function () {
   let interval = setInterval(() => {
     const style = document.querySelector(".contributedProductIconTheme");
     if (style && style.textContent.includes("pi-SF-Pro")) {
-      console.log("Injecting 💉");
+      console.log("Injecting SF Symbol icons 💉");
       steps--;
       if (steps == 0) clearInterval(interval);
       style.textContent = style.textContent
