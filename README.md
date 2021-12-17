@@ -16,6 +16,11 @@ Once you’ve followed those steps, open the command pallete, choose “Preferen
 
 ## Changelog
 
+### v2.1.1
+
+Fix font & injection on recent VS Code Insiders builds.<br>
+Also: checked the new icons in SF Symbols 3.1 and decided not to add any of them.
+
 ### v2.1.0
 
 Added a dirty close icon for files
