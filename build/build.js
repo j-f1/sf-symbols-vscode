@@ -20,7 +20,7 @@ const theme = {
   fonts: [
     {
       id: "SF-Pro",
-      src: [{ path: "SF-Pro.ttf", format: "ttf" }],
+      src: [{ path: "SF-Pro.woff", format: "woff" }],
       weight: "normal",
       style: "normal",
     },

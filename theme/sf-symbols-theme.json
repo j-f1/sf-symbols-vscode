@@ -4,8 +4,8 @@
       "id": "SF-Pro",
       "src": [
         {
-          "path": "SF-Pro.ttf",
-          "format": "ttf"
+          "path": "SF-Pro.woff",
+          "format": "woff"
         }
       ],
       "weight": "normal",
