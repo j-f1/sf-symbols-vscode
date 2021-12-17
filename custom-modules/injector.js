@@ -1,10 +1,12 @@
 define([], function () {
+  let injectionCount = 2;
   let interval = setInterval(() => {
     const styles = document.querySelectorAll("style");
     for (const style of styles) {
       if (!style.textContent.includes("pi-SF-Pro")) continue;
 
       console.log("Injecting SF Symbol icons... 💉");
+      console.log("into:", style);
 
       style.textContent = style.textContent
         .replace(/@font-face\s*\{.+?\}$/m, "")
@@ -19,8 +21,16 @@ define([], function () {
           font-feature-settings: 'ss15' on !important;
         }`;
 
-      clearInterval(interval);
-      console.log("Successfully injected SF Symbol icons ✅");
+      injectionCount--;
+      if (injectionCount) {
+        console.log(
+          "Performed replace for SF Symbols, retries left:",
+          injectionCount
+        );
+      } else {
+        clearInterval(interval);
+        console.log("Successfully injected SF Symbol icons ✅");
+      }
     }
   }, 100);
 });
