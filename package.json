@@ -36,7 +36,6 @@
   "scripts": {
     "build": "node build/build.js"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.14.41",
     "strip-json-comments": "^3.1.1",
