@@ -9,13 +9,6 @@ const mapping = JSON.parse(
   )
 );
 
-const dealiased = Object.fromEntries(
-  Object.entries(mapping).map(([name, symbol]) => {
-    const match = /^\[(.+)\]$/.exec(symbol);
-    return [name, match ? mapping[match[1]] : symbol];
-  })
-);
-
 const theme = {
   fonts: [
     {
