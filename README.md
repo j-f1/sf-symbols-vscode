@@ -16,6 +16,11 @@ Once you’ve followed those steps, open the command pallete, choose “Preferen
 
 ## Changelog
 
+### v2.2.0
+
+**New**: Added a file icon theme! Set your File Icon Theme to SF Symbol Icons and reload the window to use it.<br>
+Also: tweaked the code that modifies the CSS used to deliver the theme.
+
 ### v2.1.1
 
 Fix font & injection on recent VS Code Insiders builds.<br>
