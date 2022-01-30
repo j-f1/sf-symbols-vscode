@@ -25,7 +25,7 @@
       {
         "id": "sf-symbol-icons",
         "label": "SF Symbol Icons",
-        "path": "./theme/sf-symbols-theme.json"
+        "path": "./theme/product-theme.json"
       }
     ]
   },

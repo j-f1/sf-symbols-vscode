@@ -5,7 +5,7 @@ const stripJsonComments = require("strip-json-comments");
 /** @type {{ [key: string]: string }} */
 const mapping = JSON.parse(
   stripJsonComments(
-    fs.readFileSync(path.join(__dirname, "icon-mapping.jsonc"), "utf8")
+    fs.readFileSync(path.join(__dirname, "product-icon-mapping.jsonc"), "utf8")
   )
 );
 
@@ -34,7 +34,7 @@ const theme = {
 };
 
 fs.writeFileSync(
-  path.join(path.dirname(__dirname), "theme", "sf-symbols-theme.json"),
+  path.join(path.dirname(__dirname), "theme", "product-theme.json"),
   JSON.stringify(theme, null, 2).replace(
     /fontCharacter": "(..)"/g,
     (_, ch) =>
