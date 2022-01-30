@@ -1,5 +1,5 @@
 define([], function () {
-  let injectionCount = 2;
+  let injectionCount = 8;
   const style = document.createElement("style");
   document.head.appendChild(style);
   let interval = setInterval(() => {
@@ -14,16 +14,13 @@ define([], function () {
 
       style.textContent = style.textContent
         .replace(/@font-face\s*\{[^}]+SF-Pro[^}]+\}$/m, "")
-        .replace(
-          /('?)pi-SF-Pro\1/g,
-          "SF Pro !important; font-feature-settings: 'ss15' on"
-        );
+        .replace(/'pi-SF-Pro'/g, "SF Pro; font-feature-settings: 'ss15' on");
 
       if (style.className === "contributedFileIconTheme") {
         style.textContent = style.textContent
           .replace(
             /('?)SF-Pro\1/g,
-            "SF Pro; font-feature-settings: 'ss15' on; font-size: 115%"
+            "SF Pro; font-feature-settings: 'ss15' on; font-size: 115%; text-align: right"
           )
           .replaceAll(
             "seti; background-image: unset;",
@@ -50,5 +47,5 @@ define([], function () {
         console.log("Successfully injected SF Symbol icons ✅");
       }
     }
-  }, 100);
+  }, 30);
 });
