@@ -21,8 +21,7 @@
         }
       ],
       "weight": "normal",
-      "style": "normal",
-      "fontSize": "90%"
+      "style": "normal"
     }
   ],
   "iconDefinitions": {
@@ -537,14 +536,14 @@
       "fontId": "seti"
     },
     "_favicon_light": {
-      "fontCharacter": "\\E02F",
-      "fontColor": "#b7b73b",
-      "fontId": "seti"
+      "fontCharacter": "\\100828",
+      "fontId": "SF-Pro",
+      "fontColor": "#b7b73b"
     },
     "_favicon": {
-      "fontCharacter": "\\E02F",
-      "fontColor": "#cbcb41",
-      "fontId": "seti"
+      "fontCharacter": "\\100828",
+      "fontId": "SF-Pro",
+      "fontColor": "#cbcb41"
     },
     "_firebase_light": {
       "fontCharacter": "\\E030",
@@ -897,14 +896,14 @@
       "fontColor": "#a074c4"
     },
     "_info_light": {
-      "fontCharacter": "\\E04D",
-      "fontColor": "#498ba7",
-      "fontId": "seti"
+      "fontCharacter": "\\100174",
+      "fontId": "SF-Pro",
+      "fontColor": "#498ba7"
     },
     "_info": {
-      "fontCharacter": "\\E04D",
-      "fontColor": "#519aba",
-      "fontId": "seti"
+      "fontCharacter": "\\100174",
+      "fontId": "SF-Pro",
+      "fontColor": "#519aba"
     },
     "_ionic_light": {
       "fontCharacter": "\\E04E",
@@ -1157,14 +1156,14 @@
       "fontId": "seti"
     },
     "_markdown_light": {
-      "fontCharacter": "\\E060",
-      "fontColor": "#498ba7",
-      "fontId": "seti"
+      "fontCharacter": "\\100245",
+      "fontId": "SF-Pro",
+      "fontColor": "#498ba7"
     },
     "_markdown": {
-      "fontCharacter": "\\E060",
-      "fontColor": "#519aba",
-      "fontId": "seti"
+      "fontCharacter": "\\100245",
+      "fontId": "SF-Pro",
+      "fontColor": "#519aba"
     },
     "_maven_light": {
       "fontCharacter": "\\E061",
@@ -1831,14 +1830,14 @@
       "fontId": "seti"
     },
     "_windows_light": {
-      "fontCharacter": "\\E0A1",
-      "fontColor": "#498ba7",
-      "fontId": "seti"
+      "fontCharacter": "\\10097a",
+      "fontId": "SF-Pro",
+      "fontColor": "#498ba7"
     },
     "_windows": {
-      "fontCharacter": "\\E0A1",
-      "fontColor": "#519aba",
-      "fontId": "seti"
+      "fontCharacter": "\\10097a",
+      "fontId": "SF-Pro",
+      "fontColor": "#519aba"
     },
     "_word_light": {
       "fontCharacter": "\\E0A2",
@@ -1919,6 +1918,16 @@
       "fontCharacter": "\\100927",
       "fontId": "SF-Pro",
       "fontColor": "#6d8086"
+    },
+    "_package_light": {
+      "fontCharacter": "\\10041b",
+      "fontId": "SF-Pro",
+      "fontColor": "#cc3e44"
+    },
+    "_package": {
+      "fontCharacter": "\\10041b",
+      "fontId": "SF-Pro",
+      "fontColor": "#cc3e44"
     },
     "_todo_light": {
       "fontCharacter": "\\1000f2",
@@ -2162,6 +2171,8 @@
     "ds_store": "_ignored"
   },
   "fileNames": {
+    "settingseditor": "_config",
+    "package.json": "_package",
     "mix": "_hex",
     "karma.conf.js": "_karma",
     "karma.conf.coffee": "_karma",
@@ -2616,6 +2627,8 @@
       "django-html": "_html_3_light"
     },
     "fileNames": {
+      "settingseditor": "_config_light",
+      "package.json": "_package_light",
       "mix": "_hex_light",
       "karma.conf.js": "_karma_light",
       "karma.conf.coffee": "_karma_light",

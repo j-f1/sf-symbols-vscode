@@ -20,7 +20,7 @@ define([], function () {
         style.textContent = style.textContent
           .replace(
             /('?)SF-Pro\1/g,
-            "SF Pro; font-feature-settings: 'ss15' on; font-size: 115%; text-align: right"
+            "SF Pro; font-feature-settings: 'ss15' on; font-size: 100%; text-align: right"
           )
           .replaceAll(
             "seti; background-image: unset;",

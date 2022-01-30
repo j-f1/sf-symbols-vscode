@@ -57,12 +57,21 @@ const setiTheme = await fetch(
 
 const fileIcons = await readJSONC("./file-icon-mapping.jsonc");
 
+// https://github.com/jesseweed/seti-ui/blob/bc194faed12b10692807f47b97f0ff963e4c9f24/styles/ui-variables.less
+const namedColors = {
+  red: "#cc3e44",
+};
+const colors = {
+  _package: namedColors.red,
+  _package_light: namedColors.red,
+};
+
 const makeIcon = (name, icon) => [
   name,
   {
     ...icon,
     fontId: "SF-Pro",
-    fontColor: setiTheme.iconDefinitions[name]?.fontColor,
+    fontColor: setiTheme.iconDefinitions[name]?.fontColor ?? colors[name],
   },
 ];
 
@@ -81,7 +90,7 @@ await writeTheme("../theme/file-theme.json", {
       style: "normal",
       size: "150%",
     },
-    { ...sfPro, fontSize: "90%" },
+    { ...sfPro },
   ],
   iconDefinitions: {
     ...Object.fromEntries(
@@ -96,6 +105,19 @@ await writeTheme("../theme/file-theme.json", {
         makeIcon("_" + name, icon),
       ])
     ),
+  },
+  fileNames: {
+    settingseditor: "_config",
+    "package.json": "_package",
+    ...setiTheme.fileNames,
+  },
+  light: {
+    ...setiTheme.light,
+    fileNames: {
+      settingseditor: "_config_light",
+      "package.json": "_package_light",
+      ...setiTheme.light.fileNames,
+    },
   },
   information_for_contributors: undefined,
 });
